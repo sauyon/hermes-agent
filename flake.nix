@@ -101,6 +101,8 @@
               firecrawl-py
               edge-tts
               pyjwt
+              discordpy
+              mcp
             ] ++ [
               exa-py
               parallel-web
